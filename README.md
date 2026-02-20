@@ -1,6 +1,6 @@
 # gogetfp
 
-`gogetfp` (**Go Get** **F**ree **P**roxy) is a lightweight Go library facilitating the retrieval of free proxies for seamless integration into your applications. With support for popular proxy sources like `free-proxy-list.net`, `sslproxies.org` and `us-proxy.org`. `gogetfp` offers customizable options, including **country filtering** and **timeout settings**. Enhance privacy, security, and access geo-restricted content effortlessly, making 'gogetfp' the go-to solution for integrating free proxies into your Go projects.
+`gogetfp` (**Go Get** a **F**ree **P**roxy) is a lightweight Go library facilitating the retrieval of free proxies for seamless integration into your applications. With support for popular proxy sources like `free-proxy-list.net`, `sslproxies.org` and `us-proxy.org`. `gogetfp` offers customizable options, including **country filtering** and **timeout settings**. Enhance privacy, security, and access geo-restricted content effortlessly, making 'gogetfp' the go-to solution for integrating free proxies into your Go projects.
 
 Heavily inspired by the Python library [freeproxy](https://github.com/jundymek/free-proxy).
 

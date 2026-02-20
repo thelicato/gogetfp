@@ -30,7 +30,7 @@ func main() {
 	showVersion := flag.Bool("version", false, "Print version info and exit")
 
 	flag.Usage = func() {
-		fmt.Fprintf(flag.CommandLine.Output(), "gogetfp - get free proxies (CLI for github.com/thelicato/gogetfp)\n\n")
+		fmt.Fprintf(flag.CommandLine.Output(), "gogetfp - Go Get a Free Proxy (https://github.com/thelicato/gogetfp)\n\n")
 		fmt.Fprintf(flag.CommandLine.Output(), "Usage:\n")
 		fmt.Fprintf(flag.CommandLine.Output(), "  gogetfp [flags]\n\n")
 		fmt.Fprintf(flag.CommandLine.Output(), "Examples:\n")
