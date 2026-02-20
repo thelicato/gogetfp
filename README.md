@@ -51,6 +51,17 @@ Flags:
   -version
         Print version info and exit
 ```
+
+### 🐋 Docker
+
+A Docker image of the CLI is generated and automatically pushed on GitHub:
+
+```sh
+docker run -it --rm ghcr.io/thelicato/gogetfp
+```
+
+Ideally you would alias it to a handier command.
+
 ## 📚 Library
 
 On the other hand, if you want to use it in your Golang project you can run the following:
