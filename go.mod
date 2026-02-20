@@ -1,4 +1,4 @@
-module github.com/groundsec/gogetfp
+module github.com/thelicato/gogetfp
 
 go 1.21.5
 

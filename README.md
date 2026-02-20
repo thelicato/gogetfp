@@ -9,7 +9,7 @@ Heavily inspired by the Python library [freeproxy](https://github.com/jundymek/f
 Run the following command to install the latest version:
 
 ```bash
-go install -v github.com/groundsec/gogetfp@latest
+go install -v github.com/thelicato/gogetfp@latest
 ```
 
 After this command `gogetfp` library source will be in your current `go.mod`.
@@ -39,7 +39,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/groundsec/gogetfp"
+	"github.com/thelicato/gogetfp"
 )
 
 func main() {
@@ -56,4 +56,4 @@ func main() {
 
 ## 🪪 License
 
-_gogetfp_ is made with 🖤 by the [GroundSec](https://groundsec.io) team and released under the [MIT LICENSE](https://github.com/groundsec/gogetfp/blob/main/LICENSE).
+_gogetfp_ is made with 🖤 and released under the [MIT LICENSE](https://github.com/thelicato/gogetfp/blob/main/LICENSE).

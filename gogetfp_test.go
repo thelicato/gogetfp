@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/groundsec/gogetfp"
+	"github.com/thelicato/gogetfp"
 )
 
 func TestDefaultProxy(t *testing.T) {
